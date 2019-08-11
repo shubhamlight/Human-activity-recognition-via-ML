@@ -1,0 +1,2 @@
+# Human-activity-recognition-via-ML
+Human activity recognition using data from smart phones (Machine Learning). The objective is to make a Machine Learning (ML) model which can classify the activities using the data set values into one of the six activity :  { WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING } performed  The models are made and for each model, accuracy has to be checked. The model with the highest accuracy will be the final result. Linear Simple Vector Machine performs best in our experiment with an accuracy of 96.53% in test data.
